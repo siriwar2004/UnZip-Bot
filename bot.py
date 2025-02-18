@@ -10,9 +10,10 @@ from Unzip.config import Config
 
 app = Client(
     "unzip_bot",
-    bot_token=Config.BOT_TOKEN,
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
+    bot_token=Config.7766243249:AAHdGrwbIQXuiNbq1cYY871jmAa80mDVaSc,
+    api_id=Config.25131273
+,
+    api_hash=Config.6b2715180a62e8c4fbcdde7d8b88787e,
     plugins=dict(root="Unzip")
 )
 
